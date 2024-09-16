@@ -1,0 +1,11 @@
+{
+    "mode": "TCP",
+    "port": 502,
+    "serial_port": "/dev/ttyUSB0",
+    "baud_rate": 9600,
+    "parity": "N",
+    "data_bits": 8,
+    "stop_bits": 1,
+    "registers": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]  
+}
+
